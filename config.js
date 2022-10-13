@@ -13,7 +13,7 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapis.xyz': 'Your Key',
+	'https://zenzapis.xyz': '0e92565522',
 }
 
 
@@ -22,7 +22,7 @@ global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['60177426853','60177426853','60177426853']
+global.owner = ['6285709420641','6285794583615','62 853-9209-2854']
 global.premium = ['60177426853']
 global.packname = 'The Jo Bot'
 global.author = 'WhatsApp Bot'
@@ -55,3 +55,5 @@ fs.watchFile(file, () => {
 	delete require.cache[file]
 	require(file)
 })
+
+
