@@ -1,5 +1,5 @@
 /**
-   * Create By THE JO BOT
+   * Create By THE JO BOT & AGUNG
    * Base by Dika Ardnt
 */
 
@@ -17,14 +17,14 @@ global.APIKeys = {
 }
 
 
-global.ownername = 'THE JO BOT'
+global.ownername = 'Agung'
 global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
 global.owner = ['6285709420641','6285794583615','62 853-9209-2854']
 global.premium = ['6285709420641','6285794583615']
-global.packname = 'The Jo Bot'
+global.packname = 'Agung'
 global.author = 'WhatsApp Bot'
 global.wlcm = []
 global.sessionName = 'session'
