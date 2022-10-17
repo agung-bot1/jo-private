@@ -1,5 +1,5 @@
 /**
-   * Create By THE JO BOT
+   * Create By THE JO BOT & Agung
    * Base by Dika Ardnt
 */
 
@@ -168,7 +168,7 @@ async function startjobotz() {
 ╰━ ━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
  ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 
-© THE JO BOT
+© Agung
 `
                   jobotz.sendMessage(anu.id, { image: { url: pp_user }, contextInfo: { mentionedJid: [num] }, caption: anunya2 })
                 }
